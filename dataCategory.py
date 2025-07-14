@@ -4,13 +4,6 @@ import uuid;
 import squarify;
 import numpy as np;
 import random;
-Write README.md for me with the following requirements by my jupyter notebook:
-Document the steps of data preprocessing in the equivalent section
-Explain how to 
-Install dependencies and run data preprocessing steps.  
-Train (or retrain) the models.  
-Evaluate the models.  
-Spin up the REST API and make sample requests. 
 
 class CategorizeData:
     def __init__(self, file_path):
