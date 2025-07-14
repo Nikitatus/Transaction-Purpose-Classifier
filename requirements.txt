@@ -1,0 +1,5 @@
+Flask>=2.0.0
+scikit-learn>=1.0.0
+joblib>=1.0.0
+squarify>=0.4.3
+xgboost>=1.6.0
