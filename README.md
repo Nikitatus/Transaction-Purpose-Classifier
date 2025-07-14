@@ -34,7 +34,8 @@ This repository provides tools to preprocess transaction purpose data, train and
 
 ## Data Preprocessing
 
-All preprocessing steps are implemented in the Jupyter notebook `Transaction Purpose Classifier.ipynb`.
+All preprocessing steps are implemented in the Jupyter notebook `Transaction Purpose Classifier.ipynb`. 
+The dataset consists from `data.csv` and `dataCategory.py` files where the latter is used to generate labels.
 
 1. **Load raw data**
 
