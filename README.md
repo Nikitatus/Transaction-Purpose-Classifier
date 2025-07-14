@@ -20,8 +20,8 @@ This repository provides tools to preprocess transaction purpose data, train and
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone <https://github.com/Nikitatus/Transaction-Purpose-Classifier>
+   cd <Transaction-Purpose-Classifier>
    ```
    
 2. **Install dependencies**
